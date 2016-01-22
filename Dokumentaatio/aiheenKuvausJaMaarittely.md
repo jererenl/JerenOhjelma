@@ -1,4 +1,4 @@
-## Aihem‰‰rittely
+# Aihem‰‰rittely
 Aihe: Sudoku-peli. Valikossa pelaaja voi katsoa highscoret (eli nopeimman ajan), valita onko automaattinen
 virheentarkastus p‰‰ll‰ vai ei ja aloittaa pelin. 
 Peli toimii joko klikkaamalla ruutua ja kirjoittamalla numeron tai klikkaamalla haluttua numeroa ja sitten klikkaamalla haluttua ruutua.
