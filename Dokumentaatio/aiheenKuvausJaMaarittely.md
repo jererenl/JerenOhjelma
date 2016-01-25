@@ -12,4 +12,7 @@ Virheen pyyhkiminen toimii vastaavalla tavalla.
 * pelaaminen
  * eli klikkaa numeroa ja sitten haluttua ruutua, tai klikkaa haluttua ruutua ja sitten kirjoittaa numeron
 * tarkastuksen päälle ja pois laittaminen (eli näyttääkö peli heti, että väärä numero vai vasta lopuksi)
+ * tämä löytyy päävalikosta
 * highscoren lisääminen ja siihen nimimerkin keksiminen
+ * tapahtuu automaattisesti, jos aika on top 10:ssä.
+ * ehkä kirjautumistoiminto, jolloin aika vain tallentuu
