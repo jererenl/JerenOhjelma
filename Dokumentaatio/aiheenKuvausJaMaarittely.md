@@ -1,12 +1,15 @@
-# Aihem‰‰rittely
+# Aihem√§√§rittely
 Aihe: Sudoku-peli. Valikossa pelaaja voi katsoa highscoret (eli nopeimman ajan), valita onko automaattinen
-virheentarkastus p‰‰ll‰ vai ei ja aloittaa pelin. 
+virheentarkastus p√§√§ll√§ vai ei ja aloittaa pelin. 
 Peli toimii joko klikkaamalla ruutua ja kirjoittamalla numeron tai klikkaamalla haluttua numeroa ja sitten klikkaamalla haluttua ruutua.
 Virheen pyyhkiminen toimii vastaavalla tavalla.
 
-K‰ytt‰j‰t: Kuka tahansa, joka haluaa pelata helppoja sudokuja ja osaa suomea.
+K√§ytt√§j√§t: Kuka tahansa, joka haluaa pelata helppoja sudokuja ja osaa suomea.
 
-Kaikkien k‰ytt‰jien toiminnot:
+Kaikkien k√§ytt√§jien toiminnot:
+
 -pelaaminen
--tarkastuksen p‰‰lle ja pois laittaminen (eli n‰ytt‰‰kˆ peli heti, ett‰ v‰‰r‰ numero vai vasta lopuksi)
--highscoren lis‰‰minen ja siihen nimimerkin keksiminen
+
+-tarkastuksen p√§√§lle ja pois laittaminen (eli n√§ytt√§√§k√∂ peli heti, ett√§ v√§√§r√§ numero vai vasta lopuksi)
+
+-highscoren lis√§√§minen ja siihen nimimerkin keksiminen
