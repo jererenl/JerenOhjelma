@@ -6,10 +6,10 @@ Peli toimii joko klikkaamalla ruutua ja kirjoittamalla numeron tai klikkaamalla 
 Virheen pyyhkiminen toimii vastaavalla tavalla.
 
 ###Käyttäjät 
-*Kuka tahansa, joka haluaa pelata helppoja sudokuja ja osaa suomea.
+* Kuka tahansa, joka haluaa pelata helppoja sudokuja ja osaa suomea.
 
 ###Kaikkien käyttäjien toiminnot
-*pelaaminen
- *eli klikkaa numeroa ja sitten haluttua ruutua, tai klikkaa haluttua ruutua ja sitten kirjoittaa numeron
-*tarkastuksen päälle ja pois laittaminen (eli näyttääkö peli heti, että väärä numero vai vasta lopuksi)
-*highscoren lisääminen ja siihen nimimerkin keksiminen
+* pelaaminen
+ * eli klikkaa numeroa ja sitten haluttua ruutua, tai klikkaa haluttua ruutua ja sitten kirjoittaa numeron
+* tarkastuksen päälle ja pois laittaminen (eli näyttääkö peli heti, että väärä numero vai vasta lopuksi)
+* highscoren lisääminen ja siihen nimimerkin keksiminen
